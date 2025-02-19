@@ -1,2 +1,2 @@
 # The-Urban-Fork-restaurant-website
-Restaurant Website created with HTML, CSS and javascript
+Restaurant Website created with HTML, CSS and JavaScript
